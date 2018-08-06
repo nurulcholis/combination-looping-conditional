@@ -1,0 +1,13 @@
+number of even and odd algorithm
+---------------------------------
+- create variable number with any value
+- check what number if mod by two is equals zero
+- if yes display that number is even
+- else display that number is odd
+
+ STORE number
+ IF number mod 2 equals 0 THEN
+  DISPLAY number is even
+ ELSE THEN 
+  DISPLAY number is odd
+ END IF
