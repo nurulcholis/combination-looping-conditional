@@ -1,0 +1,31 @@
+number of prime algorithm
+--------------------------------
+
+- create new variable as count 
+- loop begin one to set your value
+- check what your number set if modulus counter with one to your set number
+- if result zero then variable count increment by one
+- do it until loop end
+- and then check again value of variable count
+- if it equals two then display your number is prime
+- else then display your number is not prime
+
+number of prime pseudocode
+---------------------------------
+  STORE count
+  STORE number
+  FOR 1 to number
+   IF number mod 1 to number is 0 THEN
+     increment count with 1
+   END IF 
+  END FOR
+
+  IF count equals to two THEN 
+   DISPLAY number is prime
+  ELSE THEN
+   DISPLAY number is not prime
+  END IF
+
+ 
+    
+
